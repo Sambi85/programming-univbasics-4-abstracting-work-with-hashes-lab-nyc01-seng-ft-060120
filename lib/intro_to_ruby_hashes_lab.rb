@@ -18,6 +18,7 @@ def update_counting_hash(hash, key)
   
 counter = 0
 hash[key] = 1
+hash
 
 while counter < 5
 hash[key] += 1
