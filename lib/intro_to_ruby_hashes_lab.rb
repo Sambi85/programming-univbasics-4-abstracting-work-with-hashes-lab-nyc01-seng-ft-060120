@@ -21,7 +21,7 @@ hash[key] = 1
 
 while counter < 5
 hash[key] += 1
-hash
 counter +=1
   end
+  hash
 end
