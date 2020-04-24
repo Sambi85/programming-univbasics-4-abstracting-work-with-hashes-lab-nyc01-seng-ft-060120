@@ -19,7 +19,7 @@ def update_counting_hash(hash, key)
 counter = 0
 hash[key] = 1
 
-while counter < 6
+while counter < 5
 hash[key] += 1
 counter +=1
   end
