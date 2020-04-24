@@ -21,7 +21,7 @@ hash[key] = 1
 
 else
 hash[key] += 1
-  end
 end
+
 hash
 end
